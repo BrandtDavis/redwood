@@ -2,6 +2,8 @@
 
 Welcome to [RedwoodJS](https://redwoodjs.com)!
 
+Tutorial [here](https://redwoodjs.com/docs/tutorial/foreword)!
+
 > **Prerequisites**
 >
 > - Redwood requires [Node.js](https://nodejs.org/en/) (>=14.19.x <=16.x) and [Yarn](https://yarnpkg.com/) (>=1.15)
